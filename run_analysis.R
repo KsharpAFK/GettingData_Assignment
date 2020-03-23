@@ -3,7 +3,7 @@
 
 # check to see if data is present in directory or else download the data and create the file
 
-filename <- "Coursera_DS3_Final.zip"
+filename <- "Coursera_GCD.zip"
 
 # Check if archieve already exists.
 if (!file.exists(filename)){
